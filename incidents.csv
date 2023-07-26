@@ -1,0 +1,41 @@
+id,titre,description,service,date
+1,Panne de machine,La machine XYZ est en panne depuis ce matin.,Production,2023-07-26
+2,Déversement de matières dangereuses,Déversement de produits chimiques dans l'entrepôt B.,Sécurité et Environnement,2023-07-25
+3,Accident du travail,Un employé a glissé et s'est blessé dans l'usine.,Ressources humaines,2023-07-24
+4,Problème électrique,Perte de courant dans l'atelier C.,Maintenance,2023-07-23
+5,Panne du système informatique,Le serveur principal est hors service.,Informatique,2023-07-22
+6,Défaillance du système de refroidissement,Température élevée dans la salle des machines.,Maintenance,2023-07-21
+7,Intrusion détectée,Un individu non autorisé a été repéré dans l'enceinte de l'usine.,Sécurité et Environnement,2023-07-20
+8,Fuite de gaz,Émanation de gaz dans le laboratoire de recherche.,Sécurité et Environnement,2023-07-19
+9,Problème de livraison,Retard dans l'approvisionnement en matières premières.,Approvisionnement,2023-07-18
+10,Accident de chariot élévateur,Un chariot élévateur a heurté une étagère dans l'entrepôt D.,Logistique,2023-07-17
+11,Panne du système de ventilation,La ventilation de l'usine ne fonctionne plus.,Maintenance,2023-07-16
+12,Incendie dans l'atelier,Auvent de soudage mal éteint.,Sécurité et Environnement,2023-07-15
+13,Perte de données informatiques,Le système a subi une défaillance et des données ont été perdues.,Informatique,2023-07-14
+14,Blessure due à une machine défectueuse,Une machine a mal fonctionné, blessant un employé.,Ressources humaines,2023-07-13
+15,Fuite d'huile,Un réservoir d'huile s'est fissuré, provoquant une fuite.,Sécurité et Environnement,2023-07-12
+16,Erreur de production,Une série de produits a été fabriquée avec une erreur de conception.,Production,2023-07-11
+17,Panne du système de contrôle,Les opérations automatisées sont actuellement suspendues.,Informatique,2023-07-10
+18,Chute de gravats,Des gravats sont tombés d'un échafaudage en cours de maintenance.,Sécurité et Environnement,2023-07-09
+19,Dysfonctionnement du système d'alarme,Le système d'alarme a déclenché de manière intempestive.,Sécurité et Environnement,2023-07-08
+20,Conflit entre employés,Une altercation entre deux employés a eu lieu dans l'usine.,Ressources humaines,2023-07-07
+21,Panne de la ligne de production,La ligne de production principale est à l'arrêt.,Production,2023-07-06
+22,Problème d'évacuation d'eau,Les canalisations d'évacuation d'eau sont bloquées.,Sécurité et Environnement,2023-07-05
+23,Incident de transport,Une collision impliquant un camion de livraison s'est produite.,Logistique,2023-07-04
+24,Panne de l'éclairage extérieur,Les lampadaires extérieurs ne s'allument plus.,Maintenance,2023-07-03
+25,Dysfonctionnement du système de surveillance,Les caméras de sécurité sont hors service.,Sécurité et Environnement,2023-07-02
+26,Émission de bruit excessif,Les opérations d'usinage génèrent un bruit dépassant les normes.,Sécurité et Environnement,2023-07-01
+27,Panne du système de traitement des eaux,Le système de traitement des eaux usées est en panne.,Sécurité et Environnement,2023-06-30
+28,Erreur d'étiquetage,Les produits sont étiquetés avec des informations incorrectes.,Logistique,2023-06-29
+29,Problème de climatisation,L'unité de climatisation est défectueuse dans le bureau central.,Maintenance,2023-06-28
+30,Accident de transpalette,Un transpalette a renversé une palette de marchandises.,Logistique,2023-06-27
+31,Déversement d'huile,Un conteneur d'huile s'est renversé dans la zone de stockage.,Sécurité et Environnement,2023-06-26
+32,Panne du système de pesage,Le système de pesage des produits est déréglé.,Production,2023-06-25
+33,Incident avec un fournisseur,Un fournisseur a livré des pièces défectueuses.,Approvisionnement,2023-06-24
+34,Fausse alerte à la bombe,Une alerte à la bombe s'est révélée être une fausse alerte.,Sécurité et Environnement,2023-06-23
+35,Panne de l'ascenseur,Un ascenseur est coincé entre deux étages.,Maintenance,2023-06-22
+36,Incident de maintenance,Lors d'une intervention de maintenance, une pièce a été endommagée.,Maintenance,2023-06-21
+37,Dysfonctionnement du système de régulation,L'équilibre de la pression dans les réservoirs n'est pas correctement régulé.,Production,2023-06-20
+38,Panne de la chaudière,La chaudière principale ne parvient pas à atteindre la température requise.,Maintenance,2023-06-19
+39,Infiltration d'eau,Des infiltrations d'eau ont été repérées dans le bâtiment de production.,Sécurité et Environnement,2023-06-18
+40,Panne du système de gestion des stocks,Le système informatique des stocks est hors service.,Informatique,2023-06-17
